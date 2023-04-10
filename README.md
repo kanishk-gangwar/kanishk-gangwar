@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishk-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk-gangwar" /> </p>
 
-- 🔭 I’m recently worked on [Braniac](https://github.com/kanishk-gangwar/Braniac-The-Quiz-App.git)
+- 🔭 I have recently worked on [Braniac](https://github.com/kanishk-gangwar/Braniac-The-Quiz-App.git)
 
 - 🌱 I’m currently learning **MVVM, Rest API**
 
-- 👯 I have collaborate on [Krishi Mitra](https://github.com/adword01/Krishi-Mitra.git)
+- 👯 I have collaborated on [Krishi Mitra](https://github.com/adword01/Krishi-Mitra.git)
 
 - 💬 Ask me about **Android Studio, Realtime Database, Firestore Database, SQLite, Firebase**
 
