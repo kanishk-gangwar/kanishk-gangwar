@@ -10,7 +10,7 @@
 
 - 👯 I have collaborated on [Krishi Mitra](https://github.com/adword01/Krishi-Mitra.git)
 
-- 💬 Ask me about **Android Studio, Realtime Database, Firestore Database, SQLite, Firebase**
+- 💬 Ask me about **Android Studio, Realtime Database, Firestore Database, SQLite, Firebase , Retrofit , Api implementation**
 
 - 📫 How to reach me **gangwarkanisk@gmail.com**
 
