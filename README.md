@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **gangwarkanisk@gmail.com**
 
+- 👨‍💻 Portfolio link [https://kanishk-gangwar.github.io/KanishkPortfolio/](https://kanishk-gangwar.github.io/KanishkPortfolio/)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/13_Z8VIVW5fv2KsmhVwKFSPScsYyg_ooE/view?usp=sharing](https://drive.google.com/file/d/1xwf-Mn8j2QVQF2DDtjAd9rZYaZJhNVD3/view?usp=sharing)
 
 - ⚡ Fun fact **I can move my ears without using hands :)**
