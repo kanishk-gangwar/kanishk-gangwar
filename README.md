@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishk-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk-gangwar" /> </p>
 
-- 🔭 I have recently worked on [Braniac](https://github.com/kanishk-gangwar/Braniac-The-Quiz-App.git)
+- 🔭 I have recently worked on [Newizfy](https://github.com/kanishk-gangwar/Newzify.git)
 
 - 🌱 I’m currently learning **MVVM, Rest API**
 
