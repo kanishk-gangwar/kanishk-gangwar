@@ -6,7 +6,7 @@
 
 - 🔭 I have recently worked on [Newizfy](https://github.com/kanishk-gangwar/Newzify.git)
 
-- 🌱 I’m currently learning **MVVM, Rest API**
+- 🌱 I’m currently learning **Kotlin Multiplatform, JetPack Compose**
 
 - 👯 I have collaborated on [Krishi Mitra](https://github.com/adword01/Krishi-Mitra.git)
 
